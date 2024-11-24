@@ -1,0 +1,39 @@
+body {
+    font-family:'Times New Roman', Times, serif;
+    max-width: 500px;
+    margin:auto;
+    padding: 20px;
+}
+
+h1{
+    text-align: center;
+}
+
+input{
+    width: 100%;
+    padding: 10px;
+}
+
+button{
+    padding: 10px;
+    margin-left:auto;
+}
+
+ul{
+    list-style-type: none;
+    padding:0%;
+}
+
+li{
+    padding : 10px;
+    border: 2px solid #ccc;
+    margin-top: 10px;
+    display: inline-block;
+    justify-content: center;
+    align-items: center;
+}
+
+.clear{
+   text-decoration: line-through;
+   color:blueviolet;
+}
